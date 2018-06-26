@@ -1,13 +1,13 @@
 # SymPro UI
 
-This repo contains the frontend for our symbolic profiler. It also includes some sample data (in [`report_data.js`](report_data.js).
+This repo contains the frontend for our symbolic profiler. It also includes some sample data (in [`report_data.js`](report_data.js)).
 
 ![SymPro screenshot](screenshot.png)
 
 
 ## Using the UI code
 
-The UI code is written in TypeScript, so you'll need a TypeScript compiler to modify the `.ts` files in the [`ts`][ts] directory.
+The UI code is written in TypeScript, so you'll need a TypeScript compiler to modify the `.ts` files in the [`ts`](ts) directory.
 The generated `.js` files are already checked into the repo,
 so there's no need to recompile just to open the demo.
 
