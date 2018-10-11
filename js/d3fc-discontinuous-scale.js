@@ -1,3 +1,8 @@
+/*!
+ * d3fc-discontinuous scale v2.5.0 (2017-09-04)
+ * https://www.npmjs.com/package/d3fc-discontinuous-scale
+ * Copyright (c) 2017 ; Licensed MIT
+*/
 (function (global, factory) {
     typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
     typeof define === 'function' && define.amd ? define(['exports'], factory) :
